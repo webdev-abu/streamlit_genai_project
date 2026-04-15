@@ -1,5 +1,6 @@
 import streamlit as st
-from api_calling import note_generator,audio_transcription,quiz_generator
+from api_calling import note_generator, audio_transcription, quiz_generator
+
 from PIL import Image
 
 st.title("Note Summary and Quiz Generator " ,anchor=None)
