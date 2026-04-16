@@ -28,7 +28,7 @@ https://github.com/webdev-abu/streamlit_genai_project
 git clone https://github.com/webdev-abu/streamlit_genai_project
 cd note-summary-quiz-generator
 pip install -r requirements.txt
-python app.py
+streamlit run app.py
 ```
 
 ---
