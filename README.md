@@ -35,8 +35,9 @@ streamlit run app.py
 
 ## 🧪 Usage
 1. Upload Max 3 Image  
-2. Generate summary  
-3. Generate quiz  
+2. Generate summary
+3. Generate Audio
+4. Generate quiz  
 
 ---
 
